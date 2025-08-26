@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Text_Converter/static/css/main.f855e6bc.css",
-    "main.js": "/Text_Converter/static/js/main.769a0e2d.js",
-    "static/js/453.ea0a4a49.chunk.js": "/Text_Converter/static/js/453.ea0a4a49.chunk.js",
-    "index.html": "/Text_Converter/index.html",
-    "main.f855e6bc.css.map": "/Text_Converter/static/css/main.f855e6bc.css.map",
-    "main.769a0e2d.js.map": "/Text_Converter/static/js/main.769a0e2d.js.map",
-    "453.ea0a4a49.chunk.js.map": "/Text_Converter/static/js/453.ea0a4a49.chunk.js.map"
+    "main.css": "/Demo_Text_Converter/static/css/main.f855e6bc.css",
+    "main.js": "/Demo_Text_Converter/static/js/main.ad994640.js",
+    "static/js/453.ea0a4a49.chunk.js": "/Demo_Text_Converter/static/js/453.ea0a4a49.chunk.js",
+    "index.html": "/Demo_Text_Converter/index.html",
+    "main.f855e6bc.css.map": "/Demo_Text_Converter/static/css/main.f855e6bc.css.map",
+    "main.ad994640.js.map": "/Demo_Text_Converter/static/js/main.ad994640.js.map",
+    "453.ea0a4a49.chunk.js.map": "/Demo_Text_Converter/static/js/453.ea0a4a49.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.769a0e2d.js"
+    "static/js/main.ad994640.js"
   ]
 }
